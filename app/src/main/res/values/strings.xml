@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReadSms</string>
+    <string name="mobile_number">Mobile Number*</string>
+    <string name="number_of_days">Number of days*</string>
+    <string name="get_sms">Get Sms</string>
+    <string name="sorry_msg">Sorry, no messages found</string>
+</resources>
